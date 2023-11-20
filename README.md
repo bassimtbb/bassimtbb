@@ -72,6 +72,5 @@ I'm a software enthusiast and currently a student of Software Engineering and In
 
 <!-- ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/bassimtbb/my_resume) -->
 
 
