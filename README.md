@@ -18,7 +18,6 @@ https://simpleicons.org/
 
 <br>
 
-<!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
 <h2 align='center'><samp><strong>### Hi there, I'm Bassim Tabbeb! 👋</strong></samp></h2>
 <h3 align='center'><strong><a href="http://bassimt-portfolio.s3-website.eu-west-3.amazonaws.com/?fbclid=IwAR2m3TxlZMtLstqL0pTz26MSFBaQhYk1antvbQUb_qkD_B_JfhSVJHo7kuc" target="_blank">Portfolio🌐</a></strong></h3>
