@@ -10,8 +10,8 @@ https://simpleicons.org/
 📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/Ahmad-Sawalqeh?label=Follow%20Me&style=social)](https://github.com/bassimtbb)
 <br>
 <br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Bassim%20Tabbeb-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://github.com/bassimtbb)
-[![Mail](https://img.shields.io/badge/Gmail-bassim.tabbeb@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:bassim.tabbeb@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Bassim%20Tabbeb-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/tabbeb-bassim/)
+[![Mail](https://img.shields.io/badge/Gmail-bassim.tabbeb@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:bassim.tabbeb@icloud.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Bessem__tb-purple?logo=Instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/Bessem__tb)
 [![Facebook](https://img.shields.io/badge/Facebook-Bessem%20Tebbeb-blue?logo=Facebook&logoColor=blue&labelColor=black)](https://m.facebook.com/people/Bessem-Tebbeb/100007653795624/)
 [![Twitter](https://img.shields.io/badge/Twitter-TabbebB-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/TabbebB)
@@ -21,7 +21,7 @@ https://simpleicons.org/
 
 <h2 align='center'><samp><strong>### Hi there, I'm Bassim Tabbeb! 👋</strong></samp></h2>
 <h3 align='center'><strong><a href="http://bassimt-portfolio.s3-website.eu-west-3.amazonaws.com/?fbclid=IwAR2m3TxlZMtLstqL0pTz26MSFBaQhYk1antvbQUb_qkD_B_JfhSVJHo7kuc" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>Software developer | MEAN stack developer | Web & Mobile developer</p>
+<p align='center'>Master’s Student: AI, Data & Secure Systems Development (IPSSI Lyon) | Full-Stack Software Engineer</p>
 
 <p align='left'>
 
